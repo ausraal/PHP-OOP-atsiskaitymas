@@ -1,0 +1,17 @@
+{
+    "name": "ausra/atsiskaitymas",
+    "autoload": {
+        "psr-4": {
+            "Ausra\\Atsiskaitymas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ausraal",
+            "email": "ausra.al@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-json": "*"
+    }
+}
